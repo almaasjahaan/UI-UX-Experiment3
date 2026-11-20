@@ -46,7 +46,7 @@ To design a modern, attractive, and user-friendly OTT streaming mobile applicati
 **Step 12:** End the application session when the user signs out.
 
 ## 5. OUTPUT:
-<img width="1917" height="1197" alt="image" src="https://github.com/user-attachments/assets/2468eefe-437b-4892-b794-34538ab523b5" />
+<img width="1917" height="1141" alt="image" src="https://github.com/user-attachments/assets/8b17c560-e6eb-4a65-9fa4-75d837b0651b" />
 
 
 ## 6. Modules
